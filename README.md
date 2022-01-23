@@ -1,2 +1,4 @@
 # jarvis-algorithm
-During the work, a possible program was developed and algorithms were created to solve the problem of building a convex polygon, as well as a method that determines the possibility of creating a triangle inside it and displays the result
+During the work, a possible program was developed and algorithms were created to solve the problem of building a convex polygon, as well as a method that determines the possibility of creating a triangle inside it and displays the result.
+
+The file specifies the coordinates of the points. Determine whether it is possible to draw a convex polygon through which there is a triangle. If so, display this polygon and triangle, if not, display only points. After the user starts the program, the program interface will appear on his screen. To enter the data, press the "Introduce" button. After entering the coordinates and closing the text editor window, we will see many dots on the display. Then you need to press the "Run" button to display the resulting solution on the screen. A blue polygon and a green triangle inside it will be built. This indicates that the program is working correctly and doing its job.
