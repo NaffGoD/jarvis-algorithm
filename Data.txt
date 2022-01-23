@@ -1,0 +1,8 @@
+Points
+Point 2: x= 526; y= 212; 
+Point 3: x= 56; y= 152; 
+Point 4: x= 65; y= 228;
+Point 5: x= 374; y= 125;
+Point 7: x= 74; y= 428;
+Point 6: x= 8; y= 328;
+
